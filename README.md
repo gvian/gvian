@@ -1,4 +1,4 @@
-- 🙏 Hi, I’m @gvian
+- 🙏 Hi, I’m gvian
 - 👀 I’m interested in ... everything and anything
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [toot](https://mstdn.social/@givian)
