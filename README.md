@@ -2,7 +2,9 @@
 - 👀 I’m interested in ... everything and anything
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [toot](https://mstdn.social/@gvian)
-- 🔭 I’m currently working or overrunning
+- 🔭 I’m currently working or overrunning:
+  - active: [github activity](https://github.com/gvian), [wikimedia global](https://en.wikipedia.org/wiki/Special:CentralAuth?target=Givian)
+  - kaput: [github activity](https://github.com/givianw)
 - 🌱 I’m currently learning ... how to be cool
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
