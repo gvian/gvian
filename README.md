@@ -17,8 +17,4 @@
   - Ᵽ peercoin (PPC): `PENnyj6dvEqaAKtqh9tV9KzRKc4N5EWfeH` (notified public on march 31, 2021)
   - pivx (PIVX): `DNyihy8xWXkGyaLnipzWUrC3kjrbcvahHJ` (notified public on march 31, 2021)
   - blackcoin (BC): `B4pCYCRhS6itEs2rsSAVbRnoKkL6thj3Bt` (notified public on march 31, 2021)
-
-### income statement (days are inclusive)
-| days | grc | btc | ppc | pivx | bc |
-|---|---|---|---|---|---|
-|march 24-31,2021|౨.౦౧౨౬|na|na|na|na|
+- :ledger: [my income statement](https://github.com/gvian/gvian/blob/main/income%20statement.md)
