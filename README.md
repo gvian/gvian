@@ -1,7 +1,7 @@
 - 🙏 Hi, I’m gvian
 - 👀 I’m interested in ... everything and anything
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me <a rel="me" href="https://mstdn.social/@gvian">Mastodon</a>
+- 📫 How to reach me <a rel="me" href="https://mstdn.social/@gvian">visit mastodon</a> OR <a href="mailto:givian@cock.li">drop an e-mail</a>
 - 🔭 I’m currently working or overrunning:
   - active: [github activity](https://github.com/gvian), [wikimedia global](https://en.wikipedia.org/wiki/Special:CentralAuth?target=Givian)
   - kaput: [github activity](https://github.com/givianw)
