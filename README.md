@@ -11,7 +11,5 @@
 - 💬 Ask me about ... anything
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 🧾
-  - [cryptocurrencies addresses](https://github.com/gvian/gvian/blob/7d3263bdebf7c0f2b4880fac9e78b3b71a3e6418/cryptocurrencies.md)
-  - **direct hyperlinks available for above few cryptocurrencies addressess below "Sponsor this project"**
+- 🧾 [cryptocurrencies addresses](https://github.com/gvian/gvian/blob/7d3263bdebf7c0f2b4880fac9e78b3b71a3e6418/cryptocurrencies.md)
 - :ledger: [my income statement](https://github.com/gvian/gvian/blob/a1d0a8b58a9a21dc53fb671791ca6fe492b0caf5/income%20statement.md)
